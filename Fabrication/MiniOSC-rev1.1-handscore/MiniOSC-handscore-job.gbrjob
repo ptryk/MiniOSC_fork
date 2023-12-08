@@ -5,16 +5,16 @@
       "Application": "Pcbnew",
       "Version": "7.0.9"
     },
-    "CreationDate": "2023-12-08T20:00:54+01:00"
+    "CreationDate": "2023-12-08T22:38:07+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "MiniOSC",
-      "GUID": "4d696e69-4f53-4432-9e6b-696361645f70",
+      "Name": "MiniOSC-handscore",
+      "GUID": "4d696e69-4f53-4432-9d68-616e6473636f",
       "Revision": "rev?"
     },
     "Size": {
-      "X": 94.2,
+      "X": 90.2,
       "Y": 128.6
     },
     "LayerNumber": 2,
@@ -34,47 +34,47 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "MiniOSC-F_Cu.gbr",
+      "Path": "MiniOSC-handscore-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-B_Cu.gbr",
+      "Path": "MiniOSC-handscore-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-F_Paste.gbr",
+      "Path": "MiniOSC-handscore-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-B_Paste.gbr",
+      "Path": "MiniOSC-handscore-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-F_Silkscreen.gbr",
+      "Path": "MiniOSC-handscore-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-B_Silkscreen.gbr",
+      "Path": "MiniOSC-handscore-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "MiniOSC-F_Mask.gbr",
+      "Path": "MiniOSC-handscore-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MiniOSC-B_Mask.gbr",
+      "Path": "MiniOSC-handscore-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "MiniOSC-Edge_Cuts.gbr",
+      "Path": "MiniOSC-handscore-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
